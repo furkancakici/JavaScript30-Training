@@ -21,7 +21,7 @@ No  | Subject
 17  | Sort Without Articles [link](https://furkancakici.github.io/JavaScript30-Training/17_Sort_Without_Articles)
 18  | Adding Up Times with Reduce [link](https://furkancakici.github.io/JavaScript30-Training/18_Adding_Up_Times_with_Reduce)
 19  | Webcam Fun [link](https://furkancakici.github.io/JavaScript30-Training/19_Webcam_Fun)
-20  | Speech Detection [link](https://furkancakici.github.io/JavaScript30-Training/20_Speech Detection)
+20  | Speech Detection [link](https://furkancakici.github.io/JavaScript30-Training/20_Speech_Detection)
 21  | Geolocation [link](https://furkancakici.github.io/JavaScript30-Training/21_Geolocation)
 22  | Follow Along Link Highlighter [link](https://furkancakici.github.io/JavaScript30-Training/22_Follow_Along_Link_Highlighter)
 23  | Speech Synthesis [link](https://furkancakici.github.io/JavaScript30-Training/23_Speech_Synthesis)
