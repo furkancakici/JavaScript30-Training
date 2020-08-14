@@ -5,7 +5,7 @@ No  | Subject
 1  | Drum Kit [link](https://furkancakici.github.io/JavaScript30-Training/1_Drum_Kit)
 2  | JS and CSS Clock [link](https://furkancakici.github.io/JavaScript30-Training/2_JS_and_CSS_Clock)
 3  | CSS Variables [link](https://furkancakici.github.io/JavaScript30-Training/3_CSS_Variables)
-4  | Array Cardio Day1 [link](https://furkancakici.github.io/JavaScript30-Training/4_ Array_Cardio_Day_1)
+4  | Array Cardio Day1 [link](https://furkancakici.github.io/JavaScript30-Training/4_Array_Cardio_Day_1)
 5  | Flex Panel Gallery [link](https://furkancakici.github.io/JavaScript30-Training/5_Flex_Panel_Gallery)
 6  | Type Ahead [link](https://furkancakici.github.io/JavaScript30-Training/6_Type_Ahead)
 7  | Array Cardio Day 2 [link](https://furkancakici.github.io/JavaScript30-Training/7_Array_Cardio_Day_2)
